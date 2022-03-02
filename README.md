@@ -1,10 +1,4 @@
-- 👋 Hi, I’m Liam MacDonald
-- 👀 I’m interested in data science and statistics.
-- 🌱 I’m currently learning concepts around building production level applications specifically focusing on data piplelines.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-liamacdonald/liamacdonald is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my profile!  
+I'm Liam and I am passionate about data science and analytics.  
+I have a background in economics and have experience with a variety of advanced linear regression techniques.
+I'm trying to grow my skills around other data science concepts with a current focus on feature engineering and classification problems.
